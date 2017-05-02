@@ -1,5 +1,5 @@
 # Meiospin
-Python implementation of the methods decribed in : "" by 
+Python implementation of the methods decribed in : " Actin-mediated nucleus positioning modulates gene expression in mouse oocytes" by Maria Almonacid, Stephany El-Hayek, Alice Othmani, Isabelle Queguiner, Philippe Mailly, Raphaël Voituriez, Auguste Genovesio and Marie-Hélène Verlhac
 
 The code was written by Alice OTHMANI under supervision of Auguste Genovesio.
 
